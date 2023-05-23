@@ -1,0 +1,13 @@
+Redme
+
+1) The task_1_Shubham_Mahajan is file containing 1st task which is :- Process any given image/pdf and read the text. Using open- CV approach 												 and Py-tesseract only.
+
+
+2) The task_2_Shubham_Mahajan is a file contaning 2nd task which is :- Read the text as shown in the given image, make sure the code is 													generalize and work on all the given images in task2 Folder .
+
+
+3) other is a Data file and assignment intructions file
+
+
+
+4) task_1_Shubham_Mahajan.mp4 is a video file.
